@@ -1,0 +1,15 @@
+{
+  "name": "knip-repro-canvaskit-wasm",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "knip": "knip --strict"
+  },
+  "dependencies": {
+    "astro-og-canvas": "^0.13.3",
+    "canvaskit-wasm": "^0.42.0"
+  },
+  "devDependencies": {
+    "knip": "^6.45.1"
+  }
+}
