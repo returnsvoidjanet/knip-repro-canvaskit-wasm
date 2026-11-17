@@ -10,6 +10,6 @@
     "canvaskit-wasm": "^0.42.0"
   },
   "devDependencies": {
-    "knip": "^6.45.1"
+    "knip": "6.45.1"
   }
 }
